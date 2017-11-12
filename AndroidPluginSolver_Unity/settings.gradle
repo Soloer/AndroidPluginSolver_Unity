@@ -1,1 +1,1 @@
-include ':app', ':bugly'
+include ':app', ':bugly', ':gvoice'

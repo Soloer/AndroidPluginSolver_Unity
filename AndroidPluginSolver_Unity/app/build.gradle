@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply from: 'fat-aar.gradle'
 
 android {
     compileSdkVersion 26
@@ -26,5 +27,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
-    compile fileTree(dir: 'libs', includes: ['*jar'])
+//    compile fileTree(dir: 'libs', includes: ['*jar'])
+//    embedded project(':bugly')
+    embedded project(':gvoice')
 }
