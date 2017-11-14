@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kevin/UAPProjects/AAR/Test/lib3/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/kevin/.android/build-cache/39c059ab56a55178e3e71d347744a30fd39ee21b/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/kevin/UAPProjects/AAR/Test/lib3/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/kevin/.android/build-cache/39c059ab56a55178e3e71d347744a30fd39ee21b/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
